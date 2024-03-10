@@ -1,0 +1,57 @@
+        body{
+            background-color: #85E0D6;
+            text-align: center;
+        }
+
+
+        h3, p {
+            text-align: center;
+        }
+
+
+        table {
+            border-collapse: collapse;
+            width: 85%;
+            margin: 0 auto;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+            background-color: white;
+        }
+
+
+        /* Define a class for PE 4 cells */
+        .tropical-color {
+            background-color: #7FFFD4; /* Light shade of aqua, feel free to change */
+        }
+
+        /* Define a class for GEC 108 cells */
+        .gec108-color {
+            background-color: #FFD700; /* Gold color, feel free to change */
+        }
+
+        /* Define a class for ITEP 206 cells */
+        .itep206-color {
+            background-color: #00FA9A; /* Medium shade of green, feel free to change */
+        }
+
+        /* Define a class for ITEP 205 cells */
+        .itep205-color {
+            background-color: #FF6347; /* Tomato red color, feel free to change */
+        }
+
+        /* Define a class for ITEP 203 cells */
+        .itep203-color {
+            background-color: #7FFFD4; /* Light shade of aqua for tropical color, feel free to change */
+        }
+
+        .itep204-color {
+            background-color: #FFDCE6;
+        }
+
+        .itep207-color {
+            background-color: #FFCBAD;
+        }       
